@@ -15,7 +15,7 @@ idの形式はどんなものでもOKです / You can use any format of id.
 ```nim
 {Name:"ClickCheck",Type:"UpButton"}
 ```
-2. あなたのデータパックと同じフォルダに次のファンクションタグを追加します / Add the following tag to the same folder as your datapack.
+2. あなたのデータパックと同じフォルダに次のファンクションタグを追加します / Add the following tag to the same folder as your datapack.  
 your_datapack:callbackの部分の名称は違っても大丈夫です / The function name - your_datapack:callback - can be different.
 ```nim
 YourDatapack / data / invisible_clicker / tags / functions / callback.json  
